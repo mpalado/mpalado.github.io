@@ -1,6 +1,6 @@
 # mpalado.github.io
 
-<!DOCTYPE html>
+<Activities>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,15 +16,15 @@
         </tr>
         <tr>
             <td>Fashion Blog</td>
-            <td> <a href="#"></a></td>
+            <td> <a href="#">View Here</a></td>
         </tr>
         <tr>
             <td>Wine Festival Schedule</td>
-            <td> <a href="#"></a></td>
+            <td> <a href="#">View Here</a></td>
         </tr>
         <tr>
             <td>Divies Burger</td>
-            <td> <a href="#"></a></td>
+            <td> <a href="#">View Here</a></td>
         </tr>
     </table>
 </body>
