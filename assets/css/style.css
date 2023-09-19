@@ -14,7 +14,7 @@
   }
   
   ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #000000;
   }
   
   .loader_bg {
@@ -42,11 +42,11 @@
   
   ::-webkit-scrollbar-thumb {
     border-radius: 12px;
-    background: linear-gradient(135deg, #f57308, #fff, rgb(11, 242, 7));
+    background: linear-gradient(135deg, #0c0231, #530fc0, rgb(129, 3, 3));
   }
   
   ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(135deg, #1a6ad2, #fff, rgb(245, 5, 53));
+   background: linear-gradient(135deg, #1a6ad2, #fff, rgb(245, 5, 53));
   }
   
   /*  Simillar  */
