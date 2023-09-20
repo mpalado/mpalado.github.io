@@ -279,7 +279,6 @@
     background: radial-gradient(#e1efff, white);
   }
   .about .title::after {
-    content: "—Who I Am ?—";
     text-overflow: ellipsis;
     display: -webkit-inline-box;
     -webkit-line-clamp: 3;
@@ -353,7 +352,6 @@
   .services .title::after,
   .projects .title::after {
     background: #111;
-    content: "What I Provide ?";
   }
   
   .services .serv-content .card {
@@ -404,7 +402,6 @@
   }
   
   .contact .title::after {
-    content: "—Get in Touch—";
   }
   
   .contact .contact-content .column {
